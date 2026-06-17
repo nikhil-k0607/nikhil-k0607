@@ -127,7 +127,7 @@ A personal project focused on detecting suspicious financial transactions using 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/nikhil-khade-030284402/">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nikhil-khade-030284402/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
