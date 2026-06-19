@@ -127,12 +127,16 @@ A personal project focused on detecting suspicious financial transactions using 
 ## 🌐 Connect With Me
 
 <p>
+  <a href="mailto:nikhil.khade0607@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/nikhil-khade-030284402/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Khade-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://github.com/nikhil-k0607">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-nikhil--k0607-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
