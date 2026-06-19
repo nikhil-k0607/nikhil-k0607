@@ -17,7 +17,7 @@ Big Data Analytics Student | Python • SQL • PySpark • Kafka • Hadoop | C
 - 📊 Interested in **Data Engineering, Big Data, Machine Learning and Analytics**
 - 🌱 Building projects using **Python, PySpark, SQL, Kafka and Hadoop**
 - 🚀 Goal: To become a **Data Engineer / Big Data Engineer**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **nikhilk.cdac.mum.dbdafeb26@gmail.com**
 - 🤝 Open to learning, collaboration and placement opportunities
 
 ---
@@ -127,19 +127,19 @@ A personal project focused on detecting suspicious financial transactions using 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="mailto:nikhil.khade0607@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:nikhilk.cdac.mum.dbdafeb26@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/nikhil-khade-030284402/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Khade-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://github.com/nikhil-k0607">
-    <img src="https://img.shields.io/badge/GitHub-nikhil--k0607-black?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-
+---
 
 <h3 align="center">Always learning. Always building. Always improving. 🚀</h3>
