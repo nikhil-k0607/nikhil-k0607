@@ -135,7 +135,7 @@ A personal project focused on detecting suspicious financial transactions using 
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-```
+
 
 
 <h3 align="center">Always learning. Always building. Always improving. 🚀</h3>
