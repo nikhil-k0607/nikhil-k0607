@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Khade</h1>
 
 <h3 align="center">
-Big Data Analytics Student | Python • SQL • PySpark • Kafka • Hadoop | CDAC Mumbai
+Data Engineering | Big Data | AI & Machine Learning | CDAC Mumbai
 </h3>
 
 <p align="center">
@@ -12,17 +12,17 @@ Big Data Analytics Student | Python • SQL • PySpark • Kafka • Hadoop | C
 
 ## 🧑‍💻 About Me
 
-- 🎓 PG Certificate in **Big Data Analytics** - CDAC Mumbai  
-- 💻 Currently learning **Hadoop, Hive, Spark, Kafka, Airflow and Data Pipelines**
-- 📊 Interested in **Data Engineering, Big Data, Machine Learning and Analytics**
-- 🌱 Building projects using **Python, PySpark, SQL, Kafka and Hadoop**
-- 🚀 Goal: To become a **Data Engineer / Big Data Engineer**
+- 🎓 PG Certificate in **Big Data Analytics (PG-DBDA)** - CDAC Mumbai
+- 💻 Passionate about **Data Engineering, Big Data, AI Engineering and Machine Learning**
+- 🚀 Building scalable **Big Data Pipelines**, **AI Agents**, and **Real-Time Analytics Systems**
+- 🌱 Currently exploring **Apache Spark, Kafka, Hadoop, LangGraph, RAG, Airflow and AWS**
+- 🎯 Goal: **Data Engineer | Big Data Engineer | AI Engineer**
 - 📫 Reach me at: **nikhilk.cdac.mum.dbdafeb26@gmail.com**
 - 🤝 Open to learning, collaboration and placement opportunities
 
 ---
 
-## 🛠️ What I Know
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -32,7 +32,7 @@ Big Data Analytics Student | Python • SQL • PySpark • Kafka • Hadoop | C
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
-### 🔥 Big Data Tools
+### 🔥 Big Data & Data Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
@@ -40,23 +40,27 @@ Big Data Analytics Student | Python • SQL • PySpark • Kafka • Hadoop | C
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HDFS-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### 📊 Data Analytics & ML
+### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangMem-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Groq%20LLM-F55036?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HiveQL-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & Tools
@@ -64,6 +68,8 @@ Big Data Analytics Student | Python • SQL • PySpark • Kafka • Hadoop | C
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -71,44 +77,44 @@ Big Data Analytics Student | Python • SQL • PySpark • Kafka • Hadoop | C
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### 1. DataNexus BD - Big Data Pipeline Project
+## 1. 📊 DataNexus BD – Real-Time Big Data Analytics Pipeline
 
-An end-to-end Big Data project using Hadoop, Kafka, Spark, Hive and Streamlit.
+An end-to-end Big Data Engineering platform that ingests, processes, and visualizes streaming datasets using Apache Kafka, Apache Spark, Hadoop, Hive, and Streamlit.
 
 **Tech Used:**  
-`Hadoop` `Kafka` `Spark` `Hive` `Python` `Streamlit`
+`Python` `Kafka` `Spark` `Hadoop` `Hive` `HDFS` `Docker` `Streamlit`
 
 ---
 
-### 2. FinSight Bank Credit Risk Analytics
+## 2. 🛡️ Aegis-Silicon – Silent Data Corruption Detection for AI Compute Workloads
 
-EDA and analytics project on banking loan data to understand default risk, customer behavior and credit patterns.
+A real-time anomaly detection system that monitors AI infrastructure telemetry, performs feature engineering using PySpark Structured Streaming, and detects Silent Data Corruption using Machine Learning.
 
 **Tech Used:**  
-`Python` `Pandas` `Matplotlib` `Seaborn` `Statistics` `Machine Learning`
+`Python` `PySpark Structured Streaming` `Isolation Forest` `AWS` `Streamlit`
 
 ---
 
-### 3. Real-Time Fraud Detection System
+## 3. 🤖 Insurance Claim Support AI Agent
 
-A personal project focused on detecting suspicious financial transactions using batch and streaming data.
+An AI-powered Claims Copilot that leverages LangGraph, LangMem, Retrieval-Augmented Generation (RAG), ChromaDB, Groq LLM, FastAPI, Streamlit, and SQLite to assist insurance support agents with human-in-the-loop claim resolution.
 
 **Tech Used:**  
-`Kafka` `Spark Streaming` `Python` `Machine Learning` `AWS`
+`Python` `LangGraph` `LangMem` `RAG` `ChromaDB` `Groq LLM` `FastAPI` `Streamlit` `SQLite`
 
 ---
 
 ## 📚 Currently Learning
 
-- Apache Spark and PySpark  
-- Kafka Streaming  
-- Hadoop Ecosystem  
-- Hive and Data Warehousing  
-- Airflow and Data Pipelines  
-- Machine Learning for Analytics  
-- Cloud Deployment on AWS  
+- Apache Spark Structured Streaming
+- Kafka Event Streaming
+- Hadoop Ecosystem
+- LangGraph & AI Agents
+- Retrieval-Augmented Generation (RAG)
+- MLOps & AI Infrastructure
+- Cloud Deployment on AWS
 
 ---
 
@@ -142,4 +148,4 @@ A personal project focused on detecting suspicious financial transactions using 
 
 ---
 
-<h3 align="center">Always learning. Always building. Always improving. 🚀</h3>
+<h3 align="center">Building scalable data platforms today while shaping the next generation of AI-powered systems. 🚀</h3>
